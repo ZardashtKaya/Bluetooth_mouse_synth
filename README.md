@@ -25,7 +25,7 @@ A real-time, GPU-accelerated tool that transforms Bluetooth mouse movements into
 
 ## 📦 Requirements
 
-* **OS:** macOS (Required for `packetlogger` kernel tool).
+* **OS:** macOS (Required for `packetlogger` kernel tool). which can be obtained from older versions of Xcode Additional tools from Apple developer website. it should be in the hardware folder
 * **Python:** 3.8+
 * **Hardware:** Any Bluetooth Mouse (Magic Mouse, MX Master, etc.).
 
