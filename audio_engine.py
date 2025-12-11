@@ -4,7 +4,7 @@ import math
 import state
 
 SAMPLE_RATE = 44100
-BUFFER_SIZE = 1024
+BUFFER_SIZE = 256
 
 class AudioEngine:
     def __init__(self):
